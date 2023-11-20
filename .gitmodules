@@ -1,3 +1,15 @@
 [submodule "put_on_edge"]
 	path = put_on_edge
 	url = https://github.com/skunkforce/put_on_edge
+[submodule "b142_USB-to-008_A-USBC-UCFP-EA-GSR02"]
+	path = b142_USB-to-008_A-USBC-UCFP-EA-GSR02
+	url = git@github.com:skunkforce/b142_USB-to-008_A-USBC-UCFP-EA-GSR02.git
+[submodule "b018_pi_pico_breakout"]
+	path = b018_pi_pico_breakout
+	url = git@github.com:skunkforce/b018_pi_pico_breakout.git
+[submodule "b103_5v_to_3.3v_300mA_LDO_TLV743P"]
+	path = b103_5v_to_3.3v_300mA_LDO_TLV743P
+	url = git@github.com:skunkforce/b103_5v_to_3.3v_300mA_LDO_TLV743P.git
+[submodule "b051_008_to_USB_C_USB4105-GF-A"]
+	path = b051_008_to_USB_C_USB4105-GF-A
+	url = git@github.com:skunkforce/b051_008_to_USB_C_USB4105-GF-A.git

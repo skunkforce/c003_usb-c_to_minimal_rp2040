@@ -380,7 +380,7 @@
   (symbol (lib_id "Device:R_Small") (at 175.895 123.825 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7bb695e5-cb67-4497-bcbc-b58732a4a47b)
-    (property "Reference" "R7" (at 177.3936 122.6566 0)
+    (property "Reference" "R11" (at 177.3936 122.6566 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5.1k" (at 177.3936 124.968 0)
@@ -397,7 +397,7 @@
     (instances
       (project "board"
         (path "/57732dd3-1162-4c3f-88bd-31bf473d124d/77ae33e1-4e6d-45bf-ad31-337c508fa70d"
-          (reference "R7") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -406,7 +406,7 @@
   (symbol (lib_id "Device:R_Small") (at 118.745 109.855 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid da555534-0d8b-4fce-bf23-3cbb489fecb4)
-    (property "Reference" "R6" (at 120.2436 108.6866 0)
+    (property "Reference" "R12" (at 120.2436 108.6866 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5.1k" (at 120.2436 110.998 0)
@@ -423,7 +423,7 @@
     (instances
       (project "board"
         (path "/57732dd3-1162-4c3f-88bd-31bf473d124d/77ae33e1-4e6d-45bf-ad31-337c508fa70d"
-          (reference "R6") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
